@@ -6,11 +6,15 @@ This is a little description about your project.
 
 **Contributors**: [Hatchways](https://github.com/hatchways) (replace)
 
+Something else
+
 ---
 
 ### Getting Started
 
 1. Clone or download repository
+
+Doing something
 
 ---
 

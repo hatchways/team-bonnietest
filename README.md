@@ -6,6 +6,8 @@ This is a little description about your project.
 
 **Contributors**: [Hatchways](https://github.com/hatchways) (replace)
 
+Something else
+
 ---
 
 ### Getting Started
